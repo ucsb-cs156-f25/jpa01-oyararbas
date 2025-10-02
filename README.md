@@ -1,6 +1,6 @@
 # jpa01-oyararbas
 
-Deployed at: https://jpa01-oyararbas.dokku-09.cs.ucsb.edu/
+Deployed at: https://jpa01-oyararbas.dokku-09.cs.ucsb.edu
 
 
 # About this repo
